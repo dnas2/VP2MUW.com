@@ -28,7 +28,7 @@ div.operator a:hover {color:DeepSkyBlue}
 
 
 div#clublogSearch {text-align:center; width:60%; min-width:500px; margin:0 auto; border:none;}
-div#clublogSearch iframe {border:none;}
+div#clublogSearch iframe {border:none; height:300px;}
 
 section#propagation {background-color:#cacaca; opacity:0.9;}
 div#propChartDiv {text-align:center;}
