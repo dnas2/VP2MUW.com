@@ -40,6 +40,9 @@ section#qth {background-color: #7eacc1; color:white;}
 section#updates {background-color:wheat; opacity:0.95;}
 section#updates div#widgetContainer {text-align:center;}
 
+section#antennas {background-color:#e0ffff; opacity:0.9;}
+section#antennas p {text-align:center}
+
 div#logos {text-align:right; background-color:white; opacity:0.8; width: 100%;}
 div#logos img {margin:3px 20px;}
 
