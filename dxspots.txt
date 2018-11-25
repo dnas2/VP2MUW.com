@@ -1,0 +1,823 @@
+DX de KZ7N:       18075   VP2MUW                                  2018-11-17 19:24:00
+DX de VE2BK:      18075   VP2MUW                                  2018-11-17 19:25:00
+DX de EA8ZT:      18075   VP2MUW    thx qso                       2018-11-17 19:30:00
+DX de NM9P:       18075   VP2MUW                                  2018-11-17 19:31:00
+DX de WG7K:       14017   VP2MUW    Strong into Arizona USA       2018-11-17 19:32:00
+DX de KB5FLA:     18075   VP2MUW                                  2018-11-17 19:33:00
+DX de VE3NFN:     14017   VP2MUW    Simplex Strong in Toronto     2018-11-17 19:34:00
+DX de NM9P:       14017   VP2MUW                                  2018-11-17 19:35:00
+DX de WA2ZQX:     10114   VP2MUW    569-GD OP                     2018-11-17 19:36:00
+DX de 9Z4Y:       10115   VP2MUW    simplex tnx 73                2018-11-17 19:40:00
+DX de VA2AGW:     14017   VP2MUW                                  2018-11-17 19:42:00
+DX de N5PHT:      14017   VP2MUW    say up 1 but simplex          2018-11-17 19:44:00
+DX de 9Z4Y:       10115   VP2MUW    UP 1                          2018-11-17 19:52:00
+DX de 9Z4Y:       10115   VP2MUW    not busy!                     2018-11-17 19:53:00
+DX de K9GWH:      10115   VP2MUW    UP 1                          2018-11-17 19:53:00
+DX de N4RLD:      18075   VP2MUW                                  2018-11-17 19:55:00
+DX de PY6TS:      10115   VP2MUW    QSX 10116.00 tu qso           2018-11-17 19:55:00
+DX de K9GWH:      14017   VP2MUW    UP 1                          2018-11-17 20:01:00
+DX de W9LKJ:      14017   VP2MUW    up 1                          2018-11-17 20:07:00
+DX de SP6FPY:     10115   VP2MUW    CQ DX up 1                    2018-11-17 20:12:00
+DX de WB2SPP:     10115   VP2MUW                                  2018-11-17 20:14:00
+DX de PA0FVH:     10115   VP2MUW    up                            2018-11-17 20:21:00
+DX de PJ4DX:      18075   VP2MUW    Booming simplex for now       2018-11-17 20:22:00
+DX de WC0W:       14017   VP2MUW    Worked 1 watt                 2018-11-17 20:24:00
+DX de K3DQB:    14017.1   VP2MUW                                  2018-11-17 20:25:00
+DX de W0AAA:      14017   VP2MUW    Up 1                          2018-11-17 20:28:00
+DX de W4DL:       14017   VP2MUW                                  2018-11-17 20:31:00
+DX de 9Z4Y:       18075   VP2MUW    tnx 73 GL                     2018-11-17 20:35:00
+DX de PY1VOY:     14017   VP2MUW    QSX 14018.20                  2018-11-17 20:41:00
+DX de K2KA:       10115   VP2MUW    CQ up                         2018-11-17 20:43:00
+DX de W1RM:     18075.1   VP2MUW    CW                            2018-11-17 20:45:00
+DX de UR6INY:     10115   VP2MUW    tnx QSO!73! Up                2018-11-17 20:53:00
+DX de K3DQB:    10115.1   VP2MUW                                  2018-11-17 20:55:00
+DX de PS7LN:      14017   VP2MUW    GOOD SIGNAL GL 73             2018-11-17 21:00:00
+DX de XE2B:     18074.9   VP2MUW    QSX 18076.00 CW               2018-11-17 21:03:00
+DX de N2GM:       14017   VP2MUW    up 1 599+ into NNJ            2018-11-17 21:05:00
+DX de R7MW:       10115   VP2MUW    up TNX! 73!                   2018-11-17 21:11:00
+DX de KB6NU:      10115   VP2MUW                                  2018-11-17 21:13:00
+DX de K1IB:       18075   VP2MUW                                  2018-11-17 21:16:00
+DX de K9MX:     14017.1   VP2MUW                                  2018-11-17 21:16:00
+DX de W5GZ:       18075   VP2MUW                                  2018-11-17 21:19:00
+DX de HP1RIS:     14017   VP2MUW    CQ 1UP                        2018-11-17 21:20:00
+DX de PR7AR:      18075   VP2MUW                                  2018-11-17 21:22:00
+DX de W4PID:      14017   VP2MUW    Very loud in NC now..         2018-11-17 21:25:00
+DX de IW0BNW:     10115   VP2MUW    559 in Rome up 1              2018-11-17 21:25:00
+DX de UT5UR:      10115   VP2MUW    tnx QSO UP                    2018-11-17 21:25:00
+DX de HA6VH:      10115   VP2MUW                                  2018-11-17 21:26:00
+DX de K4AVU:      14017   VP2MUW    up 1                          2018-11-17 21:30:00
+DX de UT6UA:      10115   VP2MUW    up1.2 TNX !                   2018-11-17 21:41:00
+DX de EY8MM:      10115   VP2MUW    QSX 10116.0 vy loud           2018-11-17 21:59:00
+DX de JE1FQV:     18075   VP2MUW    simplex                       2018-11-17 22:04:00
+DX de K2MFY:    14016.9   VP2MUW    up 1                          2018-11-17 22:07:00
+DX de KC4LZN:     18075   VP2MUW    TU QSO 10+                    2018-11-17 22:28:00
+DX de JH1BNC:     14017   VP2MUW    Up 1                          2018-11-17 22:28:00
+DX de VE3MDX:    7048.5   VP2MUW    Cambridge University          2018-11-18 00:00:00
+DX de K9DD:      7048.5   VP2MUW                                  2018-11-18 01:23:00
+DX de M1BXF:     7048.5   VP2MUW    599 in G                      2018-11-18 01:25:00
+DX de W8XK:      7048.4   VP2MUW                                  2018-11-18 01:28:00
+DX de W7FW:        3536   VP2MUW                                  2018-11-18 01:43:00
+DX de R2CW:        3536   VP2MUW    tnx up                        2018-11-18 01:50:00
+DX de RW3AL:       3536   VP2MUW    MY CALL SV2/RW3AL TU!         2018-11-18 02:01:00
+DX de W5BIB:       7048   VP2MUW    569 SW ALA -tks- splx         2018-11-18 02:02:00
+DX de IZ8GNR:      3536   VP2MUW    up1 tu                        2018-11-18 02:04:00
+DX de W5BIB:       7048   VP2MUW    5690 SW ALA -Tks- splx        2018-11-18 02:04:00
+DX de K5KG:      7048.5   VP2MUW    Rob/M0VFC                     2018-11-18 02:05:00
+DX de LY5W:        3536   VP2MUW    QSX 3537.00                   2018-11-18 02:05:00
+DX de LY5W:      7048.5   VP2MUW                                  2018-11-18 02:14:00
+DX de W5BIB:     7048.5   VP2MUW    569 SW ALA -clg CQ- splx      2018-11-18 02:15:00
+DX de EA2BV:     7048.5   VP2MUW    5N9 Cambridge University Wirel2018-11-18 02:20:00
+DX de NT9F:        7048   VP2MUW                                  2018-11-18 02:21:00
+DX de AC4BV:     7048.5   VP2MUW    73                            2018-11-18 02:22:00
+DX de W3LPL:      14028   VP2MUW    Heard in PA                   2018-11-18 10:19:00
+DX de DL1HBT:     14028   VP2MUW                                  2018-11-18 10:21:00
+DX de IK3SCB:     14028   VP2MUW    up1                           2018-11-18 10:23:00
+DX de DL1BWU:     14028   VP2MUW    tnx                           2018-11-18 10:26:00
+DX de UA9AEI:     14028   VP2MUW    UP                            2018-11-18 10:38:00
+DX de DL8TR:      14028   VP2MUW    599 tnx up                    2018-11-18 11:05:00
+DX de R8WO:       14028   VP2MUW    NO TEST,UP 1                  2018-11-18 11:08:00
+DX de UN7LZ:      14028   VP2MUW    UP-1 fb sig                   2018-11-18 11:09:00
+DX de UA9AEI:     14028   VP2MUW    tnx QSO UP 1                  2018-11-18 11:14:00
+DX de IZ3NYG:     14028   VP2MUW    tnx QSO up                    2018-11-18 11:17:00
+DX de RU7L:       14028   VP2MUW    tnx qso                       2018-11-18 11:22:00
+DX de 9Z4Y:       14028   VP2MUW    Very FAST LOTW                2018-11-18 11:23:00
+DX de F5LQE:      14028   VP2MUW    TNX QSO / UP TO 14028.55      2018-11-18 11:33:00
+DX de W3LPL:    18085.9   VP2MUW    Heard in MA                   2018-11-18 11:42:00
+DX de DH7SA:      18086   VP2MUW    tnx es 73                     2018-11-18 12:01:00
+DX de GM3WOJ:     14028   VP2MUW    strong sigs                   2018-11-18 12:06:00
+DX de UX0CQ:      14028   VP2MUW    tnx qso 73! up 1              2018-11-18 12:12:00
+DX de RU3ZL:      18086   VP2MUW    tnx QSOUP-1                   2018-11-18 12:13:00
+DX de W3LPL:      14028   VP2MUW    Heard in OH                   2018-11-18 12:19:00
+DX de W3LPL:    10117.9   VP2MUW    Heard in MA and NH            2018-11-18 12:22:00
+DX de KD4EE:      10118   VP2MUW                                  2018-11-18 12:26:00
+DX de IT9GRX:     18086   VP2MUW    Up1 tnx                       2018-11-18 12:27:00
+DX de VE2BK:      10118   VP2MUW                                  2018-11-18 12:29:00
+DX de RN6AJ:      14028   VP2MUW    QSX UP                        2018-11-18 12:29:00
+DX de RU3ZL:      14028   VP2MUW    tnx QSO                       2018-11-18 12:31:00
+DX de HB9AUK:     18086   VP2MUW    NA-103                        2018-11-18 12:32:00
+DX de DL1HBT:     18086   VP2MUW    up1.2                         2018-11-18 12:36:00
+DX de DK2AT:      18086   VP2MUW    599,up                        2018-11-18 12:39:00
+DX de EA3CA:      18086   VP2MUW                                  2018-11-18 12:39:00
+DX de W9LKJ:      14028   VP2MUW    up 1                          2018-11-18 12:51:00
+DX de F8CRS:    18086.1   VP2MUW    CONFIRM ON LOTW !!!!          2018-11-18 12:58:00
+DX de W1GF:     18085.9   VP2MUW    UP                            2018-11-18 13:00:00
+DX de RU7L:       18086   VP2MUW    tnx qso                       2018-11-18 13:01:00
+DX de K3LB:       18086   VP2MUW    BIG SIG in NA                 2018-11-18 13:03:00
+DX de K2GV:       18086   VP2MUW    UP 1                          2018-11-18 13:10:00
+DX de G4XEE:    18085.9   VP2MUW    559                           2018-11-18 13:23:00
+DX de I5MXX:      18086   VP2MUW    up                            2018-11-18 13:24:00
+DX de W3LPL:       7013   VP2MUW    Heard in NH                   2018-11-18 13:25:00
+DX de ON5FP:      18086   VP2MUW    up 1.2                        2018-11-18 13:36:00
+DX de W3LPL:      18092   VP2MUW    Heard in NH                   2018-11-18 13:38:00
+DX de PA3WB:      18092   VP2MUW    tnx                           2018-11-18 13:49:00
+DX de W3LPL:      21020   VP2MUW    Heard in NJ and NH            2018-11-18 13:55:00
+DX de IZ3DVU:     18092   VP2MUW    up 1.40                       2018-11-18 13:59:00
+DX de DO1DXX:     21020   VP2MUW    simplex                       2018-11-18 14:00:00
+DX de IZ4ISC:     21020   VP2MUW    tnx ciao , up                 2018-11-18 14:14:00
+DX de DJ6TF:      21020   VP2MUW    15m open                      2018-11-18 14:20:00
+DX de RW3AL:      18092   VP2MUW    MY CALL SV2/RW3AL TU!         2018-11-18 14:37:00
+DX de YO2LLL:   21019.9   VP2MUW    tnx QSO up 1                  2018-11-18 14:40:00
+DX de IZ7QFN:     18092   VP2MUW    599 up                        2018-11-18 14:48:00
+DX de K2ARM:      18092   VP2MUW    CQ UP                         2018-11-18 14:50:00
+DX de OK1FGS:     18092   VP2MUW    UP 1 CW                       2018-11-18 14:51:00
+DX de KA1DBE:     18092   VP2MUW    UP 1                          2018-11-18 14:52:00
+DX de AB1YD:    18091.9   VP2MUW    TU from RI- up 1.2            2018-11-18 14:52:00
+DX de K6XT:     18091.8   VP2MUW                                  2018-11-18 14:53:00
+DX de IK3PCZ:     18092   VP2MUW    up                            2018-11-18 14:57:00
+DX de W3LPL:      14041   VP2MUW    Heard in OH                   2018-11-18 15:01:00
+DX de DL2SBF:   18091.8   VP2MUW    up 1 2                        2018-11-18 15:04:00
+DX de UZ5DM:      14041   VP2MUW    tnx QSO                       2018-11-18 15:05:00
+DX de DF4XX:    18091.8   VP2MUW    QSX 18092.80                  2018-11-18 15:06:00
+DX de PD5SS:      14041   VP2MUW    NA-103                        2018-11-18 15:07:00
+DX de IK2QPR:     14041   VP2MUW                                  2018-11-18 15:15:00
+DX de IZ5OQX:   18092.2   VP2MUW    tnx                           2018-11-18 15:20:00
+DX de DF4XX:    14040.9   VP2MUW    QSX 14041.90                  2018-11-18 15:21:00
+DX de I2ZIU:    18091.8   VP2MUW    Tu ciao                       2018-11-18 15:32:00
+DX de DL1BWU:     18092   VP2MUW    tnx up 1                      2018-11-18 15:36:00
+DX de W3LPL:      18092   VP2MUW    Heard in NH and UT            2018-11-18 15:38:00
+DX de IZ4RTB:     14042   VP2MUW    up1                           2018-11-18 15:39:00
+DX de IK0FUX:   14040.9   VP2MUW    up 1                          2018-11-18 15:41:00
+DX de IZ4RTB:     18093   VP2MUW    up1                           2018-11-18 15:42:00
+DX de EA1VM:      14041   VP2MUW    up1                           2018-11-18 15:45:00
+DX de EA8ZT:      14041   VP2MUW    up 1 thx                      2018-11-18 15:51:00
+DX de PD1RK:    14040.9   VP2MUW    up tu                         2018-11-18 15:51:00
+DX de F5PJG:      18092   VP2MUW    UP 1                          2018-11-18 15:54:00
+DX de W3LPL:      21020   VP2MUW    Heard in KS                   2018-11-18 15:56:00
+DX de EC7ABV:     21020   VP2MUW                                  2018-11-18 15:58:00
+DX de DK5FX:      21020   VP2MUW                                  2018-11-18 16:00:00
+DX de EC7ABV:     14041   VP2MUW                                  2018-11-18 16:02:00
+DX de EA1HVS:     18092   VP2MUW    UP1 Tnx 73                    2018-11-18 16:04:00
+DX de K1TGX:      18092   VP2MUW    599+ in CT                    2018-11-18 16:06:00
+DX de K1IB:     18092.1   VP2MUW    listening up                  2018-11-18 16:10:00
+DX de K0IS:       21019   VP2MUW    EN41TO<> Strong in Iowa       2018-11-18 16:11:00
+DX de K9GWH:      18092   VP2MUW    UP 1                          2018-11-18 16:12:00
+DX de F4HXJ:      14041   VP2MUW    up1                           2018-11-18 16:14:00
+DX de DL2HRT:     14041   VP2MUW    TNX                           2018-11-18 16:22:00
+DX de EA3FGO:     18150   VP2MUW    ISLA DE MONSERRAT             2018-11-18 17:28:00
+DX de W3LPL:      18074   VP2MUW    Heard in TX and MA            2018-11-18 17:36:00
+DX de N0VD:       18074   VP2MUW    up                            2018-11-18 17:37:00
+DX de K5LJ:       18074   VP2MUW    TU                            2018-11-18 17:41:00
+DX de K4FWJ:      18074   VP2MUW    atno                          2018-11-18 17:41:00
+DX de LU9FHF:     18074   VP2MUW    cq alone loud!!               2018-11-18 17:50:00
+DX de HP1AC:      18074   VP2MUW    CQ                            2018-11-18 18:34:00
+DX de HP1AC:      18074   VP2MUW    NA-103                        2018-11-18 18:38:00
+DX de KM4SII:     18074   VP2MUW    Tnx CQing                     2018-11-18 18:40:00
+DX de K1HR:       18074   VP2MUW    calling CQ                    2018-11-18 18:56:00
+DX de VE7NZ:      18074   VP2MUW                                  2018-11-18 19:01:00
+DX de KZ7N:       18074   VP2MUW                                  2018-11-18 19:08:00
+DX de W3LPL:      21027   VP2MUW    Heard in BC and MA            2018-11-18 19:12:00
+DX de K5LJ:       21027   VP2MUW                                  2018-11-18 19:16:00
+DX de KM4SII:     21027   VP2MUW    Tnx 599++                     2018-11-18 19:16:00
+DX de PY2DV:      21027   VP2MUW    Wkd. 1 UP                     2018-11-18 19:19:00
+DX de CX7RL:      18074   VP2MUW    599 TU                        2018-11-18 19:22:00
+DX de K6PO:     21026.9   VP2MUW    up 1 CW                       2018-11-18 19:24:00
+DX de KD4EE:      21027   VP2MUW                                  2018-11-18 19:32:00
+DX de W3LPL:      18074   VP2MUW    Heard in CA and MA            2018-11-18 19:37:00
+DX de VE3VTG:   21026.9   VP2MUW    up 1                          2018-11-18 19:38:00
+DX de W3LPL:    14023.2   VP2MUW    Heard in OH and AZ            2018-11-18 19:42:00
+DX de N4KZ:       18074   VP2MUW    loud                          2018-11-18 19:46:00
+DX de W2TB:     18073.9   VP2MUW    CQ                            2018-11-18 19:46:00
+DX de N4ZOO:      14023   VP2MUW                                  2018-11-18 19:48:00
+DX de GM4ATA:     14023   VP2MUW                                  2018-11-18 19:51:00
+DX de W9SN:     14022.9   VP2MUW    CW                            2018-11-18 19:54:00
+DX de FY5KE:    14022.9   VP2MUW    Up                            2018-11-18 19:56:00
+DX de W5GJ:       21027   VP2MUW    UP 1                          2018-11-18 19:57:00
+DX de KC0OW:      14023   VP2MUW    now here - UP 1               2018-11-18 20:00:00
+DX de IW2JWD:   14022.9   VP2MUW    tnx up                        2018-11-18 20:02:00
+DX de KD4EE:      14023   VP2MUW                                  2018-11-18 20:04:00
+DX de FY5KE:      18074   VP2MUW    CQ                            2018-11-18 20:10:00
+DX de AD1C:       18074   VP2MUW    no FT8 see vp2muw.com         2018-11-18 20:14:00
+DX de WB4X:       18074   VP2MUW                                  2018-11-18 20:15:00
+DX de G3UCQ:      14023   VP2MUW    Cqing lonely                  2018-11-18 20:20:00
+DX de IU1FID:     14023   VP2MUW                                  2018-11-18 20:23:00
+DX de WA2VQV:     18074   VP2MUW    599 in DE simples             2018-11-18 20:28:00
+DX de K4AVU:      18074   VP2MUW                                  2018-11-18 20:36:00
+DX de KH6DV:      18074   VP2MUW    Nice signal TU aloha          2018-11-18 20:51:00
+DX de K7JF:     18074.1   VP2MUW                                  2018-11-18 20:53:00
+DX de W3LPL:     7028.1   VP2MUW    Heard in MA                   2018-11-18 21:02:00
+DX de W3LPL:       7032   VP2MUW    Heard in QC                   2018-11-18 21:04:00
+DX de VA3ZB:    18074.1   VP2MUW                                  2018-11-18 21:06:00
+DX de W3LPL:       7033   VP2MUW    Heard in VA                   2018-11-18 21:07:00
+DX de W3LPL:      10105   VP2MUW    Heard in NY                   2018-11-18 21:11:00
+DX de W1JR:       10105   VP2MUW    CQ                            2018-11-18 21:11:00
+DX de 9A2KI:       7032   VP2MUW    up 1, tnx                     2018-11-18 21:21:00
+DX de SP8ARY:    7031.9   VP2MUW    UP1 NICE HR                   2018-11-18 21:21:00
+DX de R5WW:       10105   VP2MUW    Up                            2018-11-18 21:33:00
+DX de UT5UGR:     10105   VP2MUW                                  2018-11-18 21:42:00
+DX de YV5TNT:     10105   VP2MUW    very signal strong up1 73     2018-11-18 21:50:00
+DX de K4DY:        7032   VP2MUW    QSX UP 1-2                    2018-11-18 21:51:00
+DX de LU9FHF:      7032   VP2MUW    up                            2018-11-18 22:03:00
+DX de SV1PIZ:      7032   VP2MUW    TNX QSO, 73!                  2018-11-18 22:05:00
+DX de PR7MB:       7032   VP2MUW    cw tnx 73 up1                 2018-11-18 22:06:00
+DX de K5SWW:       7032   VP2MUW    up                            2018-11-18 22:06:00
+DX de SQ6MIH:     10105   VP2MUW    new one                       2018-11-18 22:08:00
+DX de SP7SQM:     10105   VP2MUW    up-1.2                        2018-11-18 22:15:00
+DX de LY5W:       10105   VP2MUW    QSX 10106.40                  2018-11-18 22:26:00
+DX de SV8GGI:     10105   VP2MUW    up1 tu fer qso 73             2018-11-18 22:28:00
+DX de W3LPL:     7021.1   VP2MUW    Heard in KS                   2018-11-18 23:44:00
+DX de PY7BC:       7021   VP2MUW    simplex. tnx                  2018-11-18 23:47:00
+DX de DL2LDE:      7021   VP2MUW                                  2018-11-19 00:00:00
+DX de RU7A:      7021.1   VP2MUW    up1                           2018-11-19 00:09:00
+DX de R5CW:        7021   VP2MUW    UP ....TNX QSO , 73 !!!       2018-11-19 00:11:00
+DX de OZ1OXQ:      7021   VP2MUW    T U.                          2018-11-19 00:12:00
+DX de LU5OM:      14026   VP2MUW                                  2018-11-19 11:04:00
+DX de F5ROW:      14026   VP2MUW                                  2018-11-19 11:05:00
+DX de UA9AEU:     14026   VP2MUW    tnx QSO                       2018-11-19 11:06:00
+DX de W3LPL:    14025.9   VP2MUW    Heard in MA                   2018-11-19 11:07:00
+DX de W3LPL:    14026.9   VP2MUW    Heard in NC                   2018-11-19 11:10:00
+DX de TI8II:      14026   VP2MUW    LOUD TNX                      2018-11-19 11:14:00
+DX de SM6CUK:     18074   VP2MUW    CQ CQ                         2018-11-19 11:19:00
+DX de OH6LW:      14026   VP2MUW    tnx qso                       2018-11-19 11:24:00
+DX de SP7SQM:     18074   VP2MUW    UP-1                          2018-11-19 11:25:00
+DX de ES4QR:      14026   VP2MUW    TNX 589 73                    2018-11-19 11:29:00
+DX de W3LPL:      18074   VP2MUW    Heard in MA                   2018-11-19 11:34:00
+DX de W3LPL:      10107   VP2MUW    Heard in NC and AZ            2018-11-19 11:35:00
+DX de OH6LW:      18074   VP2MUW    tnx qso up1 2                 2018-11-19 11:35:00
+DX de RK7C:       18074   VP2MUW    tnx QSO up 1.1                2018-11-19 11:49:00
+DX de NY3B:     10106.9   VP2MUW    QSX 10107.90 CW               2018-11-19 11:58:00
+DX de G4TUK:      18074   VP2MUW    Tnx nice sig in UK - up 1     2018-11-19 12:04:00
+DX de OH3DF:      14195   VP2MUW    59                            2018-11-19 12:07:00
+DX de G3JNB:      18074   VP2MUW    wkd up 1.40                   2018-11-19 12:10:00
+DX de IZ1PNT:     14195   VP2MUW    73                            2018-11-19 12:11:00
+DX de UB3A:       14195   VP2MUW    Thanks and 73! UP5            2018-11-19 12:17:00
+DX de TI8II:      14195   VP2MUW    TNX UP 5                      2018-11-19 12:17:00
+DX de IW3RQT:     14195   VP2MUW    up 5 tnx 73                   2018-11-19 12:17:00
+DX de PD1RK:      14195   VP2MUW    up 5 tu new mode              2018-11-19 12:20:00
+DX de EA1ABN:     14195   VP2MUW                                  2018-11-19 12:22:00
+DX de US0CD:      18074   VP2MUW    tnx QSO                       2018-11-19 12:23:00
+DX de PA0HWB:     18074   VP2MUW    Tnx QSO, 73 Hans              2018-11-19 12:24:00
+DX de W3LPL:    21027.9   VP2MUW    Heard in PA                   2018-11-19 12:25:00
+DX de UB3A:       18074   VP2MUW    Thanks and 73! UP1,1          2018-11-19 12:26:00
+DX de IV3OKO:     21028   VP2MUW    Cq Up                         2018-11-19 12:28:00
+DX de RW3DC:      18074   VP2MUW    TNX 73!                       2018-11-19 12:28:00
+DX de RW3PL:      18074   VP2MUW    tnx QSO up1.1                 2018-11-19 12:29:00
+DX de IK7JTF:   14039.8   VP2MUW    NA NA only now                2018-11-19 12:33:00
+DX de RK7C:       21028   VP2MUW    tnx QSO up 1.3                2018-11-19 12:35:00
+DX de M0YOB/M:    14195   VP2MUW    Thanks for list Mobile        2018-11-19 12:35:00
+DX de IU8LMC:     14195   VP2MUW    Tnx for Nwe ONE split 5 UP    2018-11-19 12:37:00
+DX de IK2TDR:     14195   VP2MUW    IOTA NA-103                   2018-11-19 12:42:00
+DX de DL9IU:      18074   VP2MUW    tnx qso up 1.1                2018-11-19 12:43:00
+DX de ON7AB:      14195   VP2MUW    Tnx qso 73                    2018-11-19 12:45:00
+DX de DO5OT:      21028   VP2MUW    up 1,3 fb TNX 73 loud         2018-11-19 12:50:00
+DX de LX1QY:      14195   VP2MUW    73 marcel                     2018-11-19 12:51:00
+DX de R3PJN:      18074   VP2MUW    tnx QSO. up 1                 2018-11-19 12:52:00
+DX de SP3CQP:     18074   VP2MUW                                  2018-11-19 12:58:00
+DX de IW3RQT:     18074   VP2MUW    tnx up 1                      2018-11-19 12:59:00
+DX de F1RUK:      14195   VP2MUW    Sorry correct call            2018-11-19 12:59:00
+DX de HA7AJ:      18074   VP2MUW    TNX up 1 73!                  2018-11-19 13:01:00
+DX de DC7DX:      14195   VP2MUW    73                            2018-11-19 13:07:00
+DX de F5PBM:      18074   VP2MUW    UP                            2018-11-19 13:08:00
+DX de VE1YX:      21028   VP2MUW    up 1                          2018-11-19 13:10:00
+DX de VE1YX:      18074   VP2MUW    up 1                          2018-11-19 13:10:00
+DX de VE1YX:      14195   VP2MUW    mny tnx!                      2018-11-19 13:10:00
+DX de DD2CW:      14195   VP2MUW    Dom cq-ing                    2018-11-19 13:11:00
+DX de 9A2AJ:      21028   VP2MUW    QSB, TU GL                    2018-11-19 13:16:00
+DX de F1JGN:      14195   VP2MUW    tnx qso 59 new one            2018-11-19 13:17:00
+DX de HB9FLU:     14195   VP2MUW    tnx qso                       2018-11-19 13:17:00
+DX de I4EWH:      18074   VP2MUW    up                            2018-11-19 13:20:00
+DX de PG9HF:      18074   VP2MUW                                  2018-11-19 13:30:00
+DX de W3LPL:    18074.1   VP2MUW    Heard in MA                   2018-11-19 13:34:00
+DX de DK4SDR:   18074.1   VP2MUW    TNX QSO VY 73                 2018-11-19 13:39:00
+DX de W3LPL:    18076.2   VP2MUW    Heard in MA                   2018-11-19 16:26:00
+DX de W3LPL:      21028   VP2MUW    Heard in WI and NY            2018-11-19 16:30:00
+DX de M0BLF:      14182   VP2MUW    vp2muw.com                    2018-11-19 16:33:00
+DX de F5IN:       21028   VP2MUW                                  2018-11-19 16:33:00
+DX de IK2TCV:     14182   VP2MUW    73 TNX                        2018-11-19 16:37:00
+DX de KV5J:       14182   VP2MUW                                  2018-11-19 16:37:00
+DX de K1RI:       14182   VP2MUW    59 in RI Simplex              2018-11-19 16:38:00
+DX de EA7TR:      14182   VP2MUW                                  2018-11-19 16:42:00
+DX de GW4TSG:     21028   VP2MUW    sri                           2018-11-19 16:45:00
+DX de MU0FAL:     18076   VP2MUW                                  2018-11-19 16:46:00
+DX de K1VI:       18076   VP2MUW                                  2018-11-19 16:48:00
+DX de EA2LMI:     14182   VP2MUW    73,s mr dom                   2018-11-19 16:50:00
+DX de K9BBQ:      14182   VP2MUW    GOOD Dx 73                    2018-11-19 16:51:00
+DX de S52DD:      18076   VP2MUW    tnx qso :) - symplex          2018-11-19 16:52:00
+DX de EA4OR:      21028   VP2MUW    CQ... 1 UP                    2018-11-19 16:52:00
+DX de MI0SAI:   18076.1   VP2MUW    UK Operators simplex          2018-11-19 16:52:00
+DX de MI0SAI:     21028   VP2MUW    cq cq up 1                    2018-11-19 16:58:00
+DX de F4HPT:      14182   VP2MUW    CQCQ NA103                    2018-11-19 17:02:00
+DX de N4SSD:    18076.1   VP2MUW                                  2018-11-19 17:11:00
+DX de VP2MNI:     14182   VP2MUW    CQ CQ CQ DX                   2018-11-19 17:13:00
+DX de MI0SAI:     14182   VP2MUW    UK op's cq cq                 2018-11-19 17:19:00
+DX de MW0ZZK:     14182   VP2MUW                                  2018-11-19 17:23:00
+DX de EA1BNF:     14182   VP2MUW    Tks 73                        2018-11-19 17:29:00
+DX de K6HP:       18076   VP2MUW    Simp - 579 N.Ca.              2018-11-19 17:29:00
+DX de F4IDC:      14182   VP2MUW    73 TNX for QSO USB 59         2018-11-19 17:32:00
+DX de CT1DMC:     14182   VP2MUW    5 up                          2018-11-19 17:32:00
+DX de W3LPL:      10107   VP2MUW    Heard in NC and NH            2018-11-19 19:53:00
+DX de W3LPL:      10113   VP2MUW    Heard in NC and NH            2018-11-19 19:54:00
+DX de M0BLF:      14248   VP2MUW    vp2muw.com                    2018-11-19 19:55:00
+DX de M0WUT:      18133   VP2MUW    vp2muw.com                    2018-11-19 20:01:00
+DX de K9GWH:      14248   VP2MUW                                  2018-11-19 20:03:00
+DX de N7DED:      18133   VP2MUW    simplex                       2018-11-19 20:03:00
+DX de EI4KF:      10113   VP2MUW    CQ                            2018-11-19 20:05:00
+DX de KG5JKU:     14248   VP2MUW    Hello from Texas!             2018-11-19 20:05:00
+DX de K9GWH:      18133   VP2MUW                                  2018-11-19 20:06:00
+DX de SV2JAO:     10113   VP2MUW    up 1                          2018-11-19 20:11:00
+DX de NN3V:       18133   VP2MUW    57 in San Diego 73            2018-11-19 20:11:00
+DX de P41E:       14248   VP2MUW    Thanks John                   2018-11-19 20:12:00
+DX de K9GWH:      10113   VP2MUW    UP 1                          2018-11-19 20:14:00
+DX de KF5RZG:     18133   VP2MUW                                  2018-11-19 20:15:00
+DX de IZ8EQF:     10113   VP2MUW    cq 1up                        2018-11-19 20:16:00
+DX de IZ7QFN:     10113   VP2MUW    UP 1                          2018-11-19 20:19:00
+DX de 9Z4Y:       10113   VP2MUW    UP1                           2018-11-19 20:20:00
+DX de KF4ZNL:     18133   VP2MUW                                  2018-11-19 20:21:00
+DX de KF5RZG:     14262   VP2MUW                                  2018-11-19 20:23:00
+DX de IV3TMT:   10113.8   VP2MUW                                  2018-11-19 20:24:00
+DX de WA8KLH:     14262   VP2MUW                                  2018-11-19 20:29:00
+DX de RA3OX:      10113   VP2MUW    up1-tnx                       2018-11-19 20:29:00
+DX de W5GZ:       18133   VP2MUW    Simplex                       2018-11-19 20:30:00
+DX de WD5CSK:     14262   VP2MUW                                  2018-11-19 20:30:00
+DX de W3BTX:      10113   VP2MUW    up 579 into Cen PA            2018-11-19 20:34:00
+DX de W5GZ:       14262   VP2MUW                                  2018-11-19 20:35:00
+DX de K2KA:       18133   VP2MUW    CQ                            2018-11-19 20:37:00
+DX de KK6NON:     14262   VP2MUW                                  2018-11-19 20:38:00
+DX de W4UCK:      14262   VP2MUW    up 5                          2018-11-19 20:40:00
+DX de ON4PQ:      10113   VP2MUW    lsn UP 1 nice signal in EU    2018-11-19 20:42:00
+DX de F4TTR:      10113   VP2MUW    QSX 10114.0 UP 0.97           2018-11-19 20:44:00
+DX de N5TDX:      14262   VP2MUW    Up 5                          2018-11-19 20:44:00
+DX de ND7J:       14262   VP2MUW                                  2018-11-19 20:45:00
+DX de VE7NZ:      18133   VP2MUW                                  2018-11-19 20:48:00
+DX de WB2NFL:     14262   VP2MUW                                  2018-11-19 20:50:00
+DX de WS5ADV:     14262   VP2MUW    EM15FI<> Up 5                 2018-11-19 20:51:00
+DX de W5GZ:       10113   VP2MUW    up 1.340                      2018-11-19 20:52:00
+DX de N5TDX:      18133   VP2MUW                                  2018-11-19 20:53:00
+DX de KF5WGB:     14262   VP2MUW    55 NETX                       2018-11-19 21:02:00
+DX de WS5ADV:     18133   VP2MUW    EM15FI<>                      2018-11-19 21:03:00
+DX de WV2V:       14262   VP2MUW    IOTA NA103 Montserrat         2018-11-19 21:04:00
+DX de WV2V:       18133   VP2MUW    IOTA NA103 Montserrat         2018-11-19 21:05:00
+DX de KU4YW:      18133   VP2MUW                                  2018-11-19 21:05:00
+DX de VK2XZ:      18133   VP2MUW    Beam VK..                     2018-11-19 21:09:00
+DX de PY5WW:      18133   VP2MUW    tnx qso                       2018-11-19 21:12:00
+DX de KT8Y:     10112.9   VP2MUW                                  2018-11-19 21:12:00
+DX de WP4N:       10113   VP2MUW    UP 1                          2018-11-19 21:12:00
+DX de K4BBH:      10113   VP2MUW    up 1                          2018-11-19 21:16:00
+DX de AB2KL:      14262   VP2MUW                                  2018-11-19 21:16:00
+DX de PY5WW:      18133   VP2MUW    tnx new band                  2018-11-19 21:16:00
+DX de K4BBH:      14262   VP2MUW    simplex                       2018-11-19 21:17:00
+DX de W3GBR:      14262   VP2MUW                                  2018-11-19 21:19:00
+DX de N6UBO:      14262   VP2MUW    also 59 in GA Tnx 4 QSO       2018-11-19 21:20:00
+DX de PY7BR:    10112.9   VP2MUW    up 1!                         2018-11-19 21:22:00
+DX de N3YZ:       14262   VP2MUW    Tnx! CQn                      2018-11-19 21:24:00
+DX de K8WHA:      10113   VP2MUW    lsn up 1                      2018-11-19 21:24:00
+DX de IK6WEZ:     10113   VP2MUW    tnx 73                        2018-11-19 21:27:00
+DX de W2GC:       14262   VP2MUW    USB                           2018-11-19 21:27:00
+DX de KC9WWM:     14262   VP2MUW    strong                        2018-11-19 21:33:00
+DX de UT7TA:      10113   VP2MUW    up 1.4                        2018-11-19 21:34:00
+DX de W3LPL:      18074   VP2MUW    Heard in CA and SC            2018-11-19 21:36:00
+DX de PP5SB:      14262   VP2MUW                                  2018-11-19 21:36:00
+DX de W7MTL:      18074   VP2MUW    Simplex gud sigs OR           2018-11-19 21:42:00
+DX de AC7AF:      18074   VP2MUW                                  2018-11-19 21:51:00
+DX de UR5IRM:     10113   VP2MUW    TNX QSO! 73! up-1             2018-11-19 21:51:00
+DX de W3LPL:      10113   VP2MUW    Heard in TX and NH            2018-11-19 21:55:00
+DX de N9SES:      18074   VP2MUW                                  2018-11-19 21:56:00
+DX de KM4SII:     10113   VP2MUW    Tnx                           2018-11-19 21:57:00
+DX de KE6MT:      18074   VP2MUW    simplex - strg qsb            2018-11-19 22:04:00
+DX de AC7AF:      18074   VP2MUW    lonely                        2018-11-19 22:05:00
+DX de W8BLA:      10113   VP2MUW    up 1                          2018-11-19 22:09:00
+DX de W3LPL:     7048.5   VP2MUW    Heard in MD and NC            2018-11-19 22:15:00
+DX de JH4IFF:     10113   VP2MUW    CQ JA                         2018-11-19 22:16:00
+DX de DL7VEE:    7048.5   VP2MUW    cw loud                       2018-11-19 22:19:00
+DX de UR5IRM:    7048.5   VP2MUW    TNX QSO! 73! up               2018-11-19 22:21:00
+DX de K2FW:       10113   VP2MUW    CQing JA, QSX UP              2018-11-19 22:21:00
+DX de JA6GPR:     10113   VP2MUW    LP 569 in JA6                 2018-11-19 22:30:00
+DX de DS3HWS:     10113   VP2MUW    l/p hw?                       2018-11-19 22:30:00
+DX de DS3HWS:     10113   VP2MUW    1up                           2018-11-19 22:31:00
+DX de P2FCR:     7048.5   VP2MUW    TNX UP                        2018-11-19 22:32:00
+DX de G4NBS:     7048.5   VP2MUW    Thanks! GL                    2018-11-19 22:35:00
+DX de W3LPL:       3542   VP2MUW    Heard in OH                   2018-11-20 00:00:00
+DX de G7VJR:       3542   VP2MUW    Op Dom, M0BLF, good signal, CQ2018-11-20 00:11:00
+DX de EA8ZT:       3542   VP2MUW    worked 3543.49 thx new one    2018-11-20 00:16:00
+DX de OH2LZC:      3542   VP2MUW    tnx qso up 1                  2018-11-20 00:26:00
+DX de SP5I:        3542   VP2MUW    UP 1,30 slow speed 20WPM      2018-11-20 00:34:00
+DX de LZ1KU:       3542   VP2MUW    TNX!                          2018-11-20 00:39:00
+DX de K5WQG:       3542   VP2MUW    UP 1                          2018-11-20 01:03:00
+DX de NM2R:        3542   VP2MUW    tnx 73                        2018-11-20 01:14:00
+DX de R3PJN:       3542   VP2MUW    Tnx QSO up 1 3                2018-11-20 01:15:00
+DX de W5GZ:        3542   VP2MUW    up 1.500                      2018-11-20 01:25:00
+DX de N4RSS:       3542   VP2MUW    up 1.2                        2018-11-20 01:42:00
+DX de K5PE:      3541.7   VP2MUW    Up 1.5                        2018-11-20 01:43:00
+DX de KC4LZN:      3542   VP2MUW    tu qso                        2018-11-20 01:49:00
+DX de 9Z4Y:        3542   VP2MUW    tnx 73 GL wrkd 3543.3         2018-11-20 01:50:00
+DX de CX6VM:       3542   VP2MUW    QSX 3543.00 CW                2018-11-20 01:54:00
+DX de W3LPL:       3542   VP2MUW    Heard in VA                   2018-11-20 02:00:00
+DX de SO5S:        3542   VP2MUW    loong soot...deep qsb         2018-11-20 02:03:00
+DX de DK8IZ:    14026.9   VP2MUW    TU                            2018-11-20 10:45:00
+DX de F5PBM:    14026.9   VP2MUW                                  2018-11-20 10:46:00
+DX de IZ3XEF:   14026.9   VP2MUW    up2 up2                       2018-11-20 10:50:00
+DX de W3LPL:      14027   VP2MUW    Heard in NJ                   2018-11-20 10:52:00
+DX de SP3AMZ:     14027   VP2MUW    up 1.5 tnx qso. vy 73         2018-11-20 11:11:00
+DX de IW3RQT:     14027   VP2MUW    tnx up 1.5 73                 2018-11-20 11:18:00
+DX de W3LPL:    18074.1   VP2MUW    Heard in MA                   2018-11-20 11:31:00
+DX de W3LPL:      10113   VP2MUW    Heard in NC and MA            2018-11-20 11:37:00
+DX de RT9T/3:   18074.1   VP2MUW    CQ                            2018-11-20 11:40:00
+DX de RA6YDX:     10113   VP2MUW                                  2018-11-20 11:42:00
+DX de VK3EW:      10113   VP2MUW                                  2018-11-20 11:43:00
+DX de CN8KD:      14027   VP2MUW    QSX 14028.3 UP 1.34 TNX       2018-11-20 11:43:00
+DX de VK3EW:    18074.1   VP2MUW    599 long path                 2018-11-20 11:50:00
+DX de 9A2QP:      14027   VP2MUW    up                            2018-11-20 11:56:00
+DX de PE0JBE:     14027   VP2MUW    Tnx qso and LoTW, 73          2018-11-20 11:56:00
+DX de SM4EMO:     14027   VP2MUW    up 1.2                        2018-11-20 11:58:00
+DX de AC4G:       10113   VP2MUW    cq                            2018-11-20 12:03:00
+DX de SP3CQP:     14027   VP2MUW    Up 0 9                        2018-11-20 12:03:00
+DX de OK1APY:     14027   VP2MUW    up 1,2                        2018-11-20 12:08:00
+DX de PA2PKZ:     14027   VP2MUW    QSX 14028.30                  2018-11-20 12:11:00
+DX de 9A2QP:      18074   VP2MUW    simplex                       2018-11-20 12:12:00
+DX de PA3WB:      14027   VP2MUW    tnx up 1.6                    2018-11-20 12:14:00
+DX de VO1MP:      18074   VP2MUW    simplex                       2018-11-20 12:15:00
+DX de UR5IRM:     18074   VP2MUW    TNX QSO! 73!                  2018-11-20 12:17:00
+DX de US0CD:      14027   VP2MUW    tnx QSO                       2018-11-20 12:18:00
+DX de SP2FVN:     18074   VP2MUW    up tnx gl                     2018-11-20 12:24:00
+DX de I0WBX:      14027   VP2MUW    1.5 UP                        2018-11-20 12:24:00
+DX de 9Z4Y:       10113   VP2MUW    CQ                            2018-11-20 12:25:00
+DX de W8MJ:       18074   VP2MUW                                  2018-11-20 12:30:00
+DX de YU5C:       14027   VP2MUW    tnx, QSX 14027.8              2018-11-20 12:38:00
+DX de M6KET:      18074   VP2MUW    mni tnx for ur patience       2018-11-20 12:47:00
+DX de G0OOD:      14027   VP2MUW    good sigs into the UK 73      2018-11-20 12:47:00
+DX de W3LPL:    14027.1   VP2MUW    Heard in WI                   2018-11-20 12:52:00
+DX de G3PXT:      14027   VP2MUW    thks qso up 1                 2018-11-20 12:55:00
+DX de F5LRL:      14027   VP2MUW    JN26KT<>FK86VS Tnx QSO 73     2018-11-20 13:02:00
+DX de W3LPL:    10114.1   VP2MUW    Heard in MA and WI            2018-11-20 13:02:00
+DX de IN3XSV:     14027   VP2MUW                                  2018-11-20 13:06:00
+DX de I1YOD:      14027   VP2MUW                                  2018-11-20 13:06:00
+DX de G4PLY:      14027   VP2MUW    tnx up 1.4                    2018-11-20 13:10:00
+DX de IT9CWA:     14027   VP2MUW    UP                            2018-11-20 13:11:00
+DX de RU7A:       18074   VP2MUW                                  2018-11-20 13:12:00
+DX de LA6XI:      18074   VP2MUW    Tnx smplex                    2018-11-20 13:12:00
+DX de PI4CC:      18074   VP2MUW    cq                            2018-11-20 13:26:00
+DX de W3LPL:      18074   VP2MUW    Heard in NH                   2018-11-20 13:31:00
+DX de UR5IRM:     14027   VP2MUW    TNX QSO! 73! up               2018-11-20 13:54:00
+DX de W3LPL:      14028   VP2MUW    Heard in KS and NJ            2018-11-20 20:47:00
+DX de W8MJ:     14028.1   VP2MUW                                  2018-11-20 20:48:00
+DX de N5TM:       14028   VP2MUW    GL                            2018-11-20 20:48:00
+DX de KA5GEX:     14028   VP2MUW    Tnx QSO. Up                   2018-11-20 20:55:00
+DX de M0BLF:      14262   VP2MUW    vp2muw.com                    2018-11-20 21:09:00
+DX de W3LPL:      10107   VP2MUW    Heard in MA                   2018-11-21 00:05:00
+DX de W3LPL:       3543   VP2MUW    Heard in OH and NJ            2018-11-21 00:08:00
+DX de R5FY:       10107   VP2MUW    TNX fer nice QSO!!!           2018-11-21 00:09:00
+DX de M1BXF:      10107   VP2MUW    Simplex                       2018-11-21 00:09:00
+DX de K9GWH:       3543   VP2MUW                                  2018-11-21 00:12:00
+DX de AB1YD:       3543   VP2MUW    TU from RI                    2018-11-21 00:14:00
+DX de AB1YD:       3543   VP2MUW    TU from RI                    2018-11-21 00:14:00
+DX de HA8BE:       3543   VP2MUW    tu, up1                       2018-11-21 00:21:00
+DX de N3COB:       3543   VP2MUW                                  2018-11-21 00:25:00
+DX de KC4LZN:      3543   VP2MUW    UP 1                          2018-11-21 00:30:00
+DX de UA3GT:       3543   VP2MUW    tnx QSO UP UP                 2018-11-21 00:32:00
+DX de K9GWH:       3543   VP2MUW    UP 1                          2018-11-21 00:38:00
+DX de NG7M:        3543   VP2MUW    up 1                          2018-11-21 00:42:00
+DX de K4BBH:       3543   VP2MUW    1 up                          2018-11-21 00:45:00
+DX de R8CA:      3542.9   VP2MUW    QSX 3543.98 TNX!              2018-11-21 00:48:00
+DX de W3LPL:       7012   VP2MUW    Heard in WI                   2018-11-21 08:57:00
+DX de W3LPL:       7013   VP2MUW    Heard in KS                   2018-11-21 09:03:00
+DX de GM3WOJ:      7012   VP2MUW    CQ up1                        2018-11-21 09:05:00
+DX de ZL4FZ:       7012   VP2MUW    QSX 7013.30 CW                2018-11-21 09:16:00
+DX de DL7CX:       7012   VP2MUW    up1                           2018-11-21 09:20:00
+DX de M0BLF:      14254   VP2MUW    vp2muw.com                    2018-11-21 10:39:00
+DX de LZ1KU:      14254   VP2MUW    TNX! 5up                      2018-11-21 10:46:00
+DX de SP2GBL:     14254   VP2MUW                                  2018-11-21 10:51:00
+DX de IU1AVL:     14254   VP2MUW    QSX 5 UP                      2018-11-21 10:59:00
+DX de 2E0BMG:     14259   VP2MUW                                  2018-11-21 11:00:00
+DX de GI0PGC:     14259   VP2MUW    tnx 73                        2018-11-21 11:06:00
+DX de ON3BEN:     14254   VP2MUW    up 4..                        2018-11-21 11:09:00
+DX de SV1RRP:     14254   VP2MUW                                  2018-11-21 11:12:00
+DX de PE1HWO:   14253.9   VP2MUW    simpx                         2018-11-21 11:12:00
+DX de ON3FZT:     14254   VP2MUW    TNX ->4 UP<-                  2018-11-21 11:20:00
+DX de IZ5YHD:     14254   VP2MUW    Up 4 tnx for new band,73      2018-11-21 11:23:00
+DX de W3LPL:      14018   VP2MUW    Heard in TX                   2018-11-21 11:40:00
+DX de W3LPL:      14017   VP2MUW    Heard in TX                   2018-11-21 11:43:00
+DX de UR5EH:    14016.8   VP2MUW    up 1.2 tnx qso                2018-11-21 11:50:00
+DX de W3LPL:      18069   VP2MUW    Heard in NC and NH            2018-11-21 12:08:00
+DX de EI9JF:      18069   VP2MUW                                  2018-11-21 12:10:00
+DX de SP8ARY:     18075   VP2MUW    SIMPLEX NICE HR               2018-11-21 12:21:00
+DX de W3LPL:      18075   VP2MUW    Heard in NH                   2018-11-21 12:22:00
+DX de W3LPL:      18079   VP2MUW    Heard in NH                   2018-11-21 12:26:00
+DX de W3LPL:    14025.8   VP2MUW    Heard in MA                   2018-11-21 12:38:00
+DX de M0WUT:      14027   VP2MUW    sri had powercut up 1         2018-11-21 12:39:00
+DX de S51KD:    14025.7   VP2MUW    QSX 14026.80                  2018-11-21 12:40:00
+DX de EW1P:       14026   VP2MUW                                  2018-11-21 12:48:00
+DX de G4WCP:      18079   VP2MUW                                  2018-11-21 12:49:00
+DX de RK7C:     14025.9   VP2MUW    tnx QSO up 1.3                2018-11-21 12:50:00
+DX de E74SL:      18079   VP2MUW    Tnx                           2018-11-21 12:57:00
+DX de UC3A:     14025.9   VP2MUW    up-1.3                        2018-11-21 12:58:00
+DX de OM8FR:      18079   VP2MUW    up 1,5                        2018-11-21 13:07:00
+DX de KC4LZN:     18079   VP2MUW    TU QSO UP                     2018-11-21 13:11:00
+DX de IW2ENA:   14025.9   VP2MUW    up 2 tnx fer new mode 73'     2018-11-21 13:12:00
+DX de M0BLF:      18130   VP2MUW    SSB vp2muw.com                2018-11-21 13:13:00
+DX de DJ9VS:      14026   VP2MUW    tnx qso 74                    2018-11-21 13:15:00
+DX de ON4AYM:     18130   VP2MUW    good call                     2018-11-21 13:15:00
+DX de SM4EMO:     18130   VP2MUW                                  2018-11-21 13:17:00
+DX de IT9ACJ:     18130   VP2MUW    CCC VP2M                      2018-11-21 13:18:00
+DX de M0WUT:      14210   VP2MUW    vp2muw.com                    2018-11-21 13:30:00
+DX de F1RUK:      18130   VP2MUW    59 up5 TNX 73                 2018-11-21 13:30:00
+DX de PD0MBY:     14210   VP2MUW    73                            2018-11-21 13:34:00
+DX de HK6KDK:     18130   VP2MUW    5 up                          2018-11-21 13:40:00
+DX de UR5EH:      14210   VP2MUW    73 Cambridge University Cambri2018-11-21 13:41:00
+DX de IW1GGR:     14210   VP2MUW    73 Good Dx,CQ CQ DX.          2018-11-21 13:43:00
+DX de OZ1T:       18130   VP2MUW    up 5 good signal              2018-11-21 13:44:00
+DX de PA5DX:      14210   VP2MUW    up 5                          2018-11-21 13:47:00
+DX de PA3HLE:     14210   VP2MUW    Thanks QSO 73                 2018-11-21 13:51:00
+DX de ON8ON:      14210   VP2MUW    OP8ON SES. TU ( UP5 )         2018-11-21 13:51:00
+DX de PF1MO:      18130   VP2MUW    up 5                          2018-11-21 13:52:00
+DX de HB9RDE:     14210   VP2MUW    59 up 5                       2018-11-21 13:53:00
+DX de OZ3ABU:     14210   VP2MUW    up 5 tnx for qso to denmark   2018-11-21 13:54:00
+DX de IZ5YHD:     18130   VP2MUW    up5 tnx 73                    2018-11-21 13:55:00
+DX de UR5EH:    18074.8   VP2MUW    up 1 tnx qso                  2018-11-21 14:05:00
+DX de ON5WO:      14210   VP2MUW    tnx QSO 5-7 5 up              2018-11-21 14:07:00
+DX de IU8JPG:     14210   VP2MUW    Tnx all team, 59 in Napoli,73\2018-11-21 14:09:00
+DX de KN4DLS:     18130   VP2MUW    S9+ in N. GA                  2018-11-21 14:09:00
+DX de ON5WO:      18130   VP2MUW    Tnx QSO 5-9 5 up new band     2018-11-21 14:13:00
+DX de DK8ZZ:      18130   VP2MUW    up5                           2018-11-21 14:13:00
+DX de N5HC:       18130   VP2MUW    up5 NM                        2018-11-21 14:16:00
+DX de SP8ALT:     18130   VP2MUW    5 UP                          2018-11-21 14:28:00
+DX de W2SFD:      18130   VP2MUW                                  2018-11-21 14:31:00
+DX de WY6K:       18135   VP2MUW                                  2018-11-21 14:35:00
+DX de N5LJL:      18130   VP2MUW    SPLIT, UP 5                   2018-11-21 14:38:00
+DX de W4NDX:      18130   VP2MUW    up 5                          2018-11-21 14:39:00
+DX de W3LPL:    21017.1   VP2MUW    Heard in NJ                   2018-11-21 14:48:00
+DX de SV1CEI:   21016.9   VP2MUW    tks new band ..up 1           2018-11-21 14:52:00
+DX de EW1P:       21017   VP2MUW    1up                           2018-11-21 15:02:00
+DX de W3LPL:    18075.9   VP2MUW    Heard in NC and VA            2018-11-21 15:03:00
+DX de AC4CA:      18076   VP2MUW                                  2018-11-21 15:04:00
+DX de IT9GRX:     21017   VP2MUW    up1                           2018-11-21 15:05:00
+DX de F5IN:       21017   VP2MUW                                  2018-11-21 15:25:00
+DX de F4GBW:      21017   VP2MUW    TNX CQ UP                     2018-11-21 15:26:00
+DX de W3LPL:      18077   VP2MUW    Heard in UT                   2018-11-21 15:27:00
+DX de F6BQG:      18076   VP2MUW    599 CW UP correc call         2018-11-21 15:28:00
+DX de W2SFD:    18077.1   VP2MUW                                  2018-11-21 15:33:00
+DX de W2SFD:    18077.1   VP2MUW    up .5                         2018-11-21 15:33:00
+DX de AC4CA:    21016.9   VP2MUW    up 1.1                        2018-11-21 15:35:00
+DX de W2SFD:      21017   VP2MUW                                  2018-11-21 15:39:00
+DX de DL2SBF:   21016.9   VP2MUW    up 1 1                        2018-11-21 15:43:00
+DX de IU8HEP:     21016   VP2MUW    TNX FOR QSO... 73             2018-11-21 15:45:00
+DX de PU2WSQ:     21016   VP2MUW    UP                            2018-11-21 16:08:00
+DX de KA2FIR:   21016.9   VP2MUW                                  2018-11-21 16:10:00
+DX de W3LPL:      14038   VP2MUW    Heard in MA                   2018-11-21 16:37:00
+DX de EA2DT:      14038   VP2MUW    QSX: 14039.1                  2018-11-21 16:42:00
+DX de DF7NX:    14038.1   VP2MUW    up                            2018-11-21 17:05:00
+DX de AE4Y:       14038   VP2MUW    CQ                            2018-11-21 17:08:00
+DX de WA3AER:   14039.1   VP2MUW                                  2018-11-21 17:11:00
+DX de EI3HA:    14039.1   VP2MUW    QSX 14039.0 DN 0.10           2018-11-21 17:20:00
+DX de DL2YBG:     14038   VP2MUW    tks                           2018-11-21 17:20:00
+DX de CT1GFQ:     14038   VP2MUW    Up 1.2 (Qsl via OQRS)         2018-11-21 17:34:00
+DX de EB1AE:      14038   VP2MUW    CQ CQ UP 1                    2018-11-21 17:35:00
+DX de F1AEY:    14038.1   VP2MUW                                  2018-11-21 17:36:00
+DX de W4SK:     14038.2   VP2MUW    Qsx Up 1                      2018-11-21 17:38:00
+DX de EC1CZL:     14038   VP2MUW    599 TU                        2018-11-21 17:41:00
+DX de 9Z4Y:       14038   VP2MUW    tnx 73 GL UP 1                2018-11-21 17:45:00
+DX de PY2ZQ:      14038   VP2MUW    Simplex                       2018-11-21 17:55:00
+DX de M0BZH:      14038   VP2MUW    UP                            2018-11-21 17:58:00
+DX de W6RLL:      14038   VP2MUW    QSX 14040 Nice signal in SE AZ2018-11-21 18:07:00
+DX de F4FRG:      14038   VP2MUW    UP 1                          2018-11-21 18:09:00
+DX de DK9PY:      14038   VP2MUW    cqing up 1                    2018-11-21 18:15:00
+DX de W3LPL:      18076   VP2MUW    Heard in KS and CO            2018-11-21 18:29:00
+DX de W3LPL:    14038.1   VP2MUW    Heard in TX                   2018-11-21 18:38:00
+DX de VE7SA:      14038   VP2MUW    tnx                           2018-11-21 18:54:00
+DX de KW1K:       14038   VP2MUW                                  2018-11-21 18:57:00
+DX de W3LPL:    14048.1   VP2MUW    Heard in WI and AB            2018-11-21 19:03:00
+DX de KB2URI:     14049   VP2MUW    UP1 TU 73                     2018-11-21 19:04:00
+DX de PR7MB:      14048   VP2MUW    cw tnx 73 up1                 2018-11-21 19:05:00
+DX de W2SFD:      14048   VP2MUW                                  2018-11-21 19:09:00
+DX de N2SAB:      14048   VP2MUW    CW up 1                       2018-11-21 19:11:00
+DX de K4DY:     14048.1   VP2MUW    CQing (QSX UP)                2018-11-21 19:21:00
+DX de W3LPL:    10124.1   VP2MUW    Heard in KS                   2018-11-21 19:22:00
+DX de AJ9C:     14047.9   VP2MUW    up 1.1                        2018-11-21 19:23:00
+DX de W2SFD:      10124   VP2MUW                                  2018-11-21 19:25:00
+DX de DL6KVA:   10124.1   VP2MUW    up 1                          2018-11-21 20:49:00
+DX de HB9TPT:     10124   VP2MUW    up                            2018-11-21 20:49:00
+DX de W3LPL:      14047   VP2MUW    Heard in KS and OH            2018-11-21 20:49:00
+DX de US0CD:      10124   VP2MUW    tnx QSO                       2018-11-21 20:55:00
+DX de AA7TV:      14047   VP2MUW    DN55RR<>FK86VS up 1           2018-11-21 20:57:00
+DX de W3LPL:       7017   VP2MUW    Heard in NC and NY            2018-11-21 20:59:00
+DX de W3LPL:      14048   VP2MUW    Heard in NV and NC            2018-11-21 21:03:00
+DX de W3LPL:       7031   VP2MUW    Heard in VA                   2018-11-21 21:04:00
+DX de PY1NP:      14047   VP2MUW    Tnx 73! Up                    2018-11-21 21:11:00
+DX de K0ZU:       14047   VP2MUW    UP 1 Loud in TX               2018-11-21 21:13:00
+DX de I8YAV:       7031   VP2MUW                                  2018-11-21 21:16:00
+DX de IZ4OSH:    7032.2   VP2MUW    tnx qso 73                    2018-11-21 21:17:00
+DX de G3PLP:    10124.1   VP2MUW    up 1                          2018-11-21 21:18:00
+DX de WB2BTJ:   10124.1   VP2MUW    up 1                          2018-11-21 21:20:00
+DX de W3LPL:    10124.1   VP2MUW    Heard in VA and MA            2018-11-21 21:23:00
+DX de KR4AE:    10124.1   VP2MUW                                  2018-11-21 21:24:00
+DX de K6CW:       14047   VP2MUW    up 1                          2018-11-21 21:26:00
+DX de WD5CSK:   10124.1   VP2MUW                                  2018-11-21 21:28:00
+DX de JH1EDD:     14047   VP2MUW    tnx UP1                       2018-11-21 21:33:00
+DX de OK2BEW:     10124   VP2MUW    599 in OK2                    2018-11-21 21:38:00
+DX de E78IW:       7031   VP2MUW    up 1.43 easy for ex-YU        2018-11-21 21:39:00
+DX de F6BQG:      10124   VP2MUW    599 cw UP                     2018-11-21 21:40:00
+DX de F4CXO:    10124.1   VP2MUW    JN26PP<>FK86VS UP1 Tnx 73s    2018-11-21 21:42:00
+DX de K1XS:     10124.1   VP2MUW    Up 1                          2018-11-21 21:44:00
+DX de K2RET:    10124.1   VP2MUW    CW up 1                       2018-11-21 21:46:00
+DX de JH3EDG:   10124.1   VP2MUW    up/SP                         2018-11-21 21:46:00
+DX de W8JJ:     10124.1   VP2MUW                                  2018-11-21 21:48:00
+DX de S51KD:     7031.1   VP2MUW    QSX 7032.50                   2018-11-21 21:54:00
+DX de W3LPL:     7048.5   VP2MUW    Heard in MA                   2018-11-21 23:53:00
+DX de W3LPL:       3546   VP2MUW    Heard in NH and OH            2018-11-22 00:02:00
+DX de W3LPL:       3566   VP2MUW    Heard in NC and OH            2018-11-22 00:04:00
+DX de WB9LUR:      3566   VP2MUW    QSX up 1.2                    2018-11-22 00:11:00
+DX de NJ1F:      3565.9   VP2MUW    QSX 3566.80 CW                2018-11-22 00:18:00
+DX de UA3RBM:    7048.5   VP2MUW    CQ UP                         2018-11-22 00:18:00
+DX de R5CW:      7048.5   VP2MUW    CQ UP                         2018-11-22 00:20:00
+DX de K0LAF:       3566   VP2MUW    up 1.2                        2018-11-22 00:25:00
+DX de 9A6R:        3566   VP2MUW    TNX QSO.GL                    2018-11-22 00:26:00
+DX de SQ8LUV:      3566   VP2MUW    tnx!                          2018-11-22 00:32:00
+DX de W5WZ:        3566   VP2MUW    QSX 3567.20                   2018-11-22 00:34:00
+DX de W3LPL:       3566   VP2MUW    Heard in SC                   2018-11-22 07:25:00
+DX de LB8DC:       3566   VP2MUW    QSX 3567.00                   2018-11-22 07:34:00
+DX de ZL2IFB:      3566   VP2MUW    Up 1                          2018-11-22 07:46:00
+DX de W3LPL:     7025.9   VP2MUW    Heard in NC and OH            2018-11-22 08:23:00
+DX de 9Z4Y:        7026   VP2MUW    tnx 73 GL UP 1                2018-11-22 08:25:00
+DX de IK5EKB:      7026   VP2MUW    up tnx!                       2018-11-22 08:31:00
+DX de ZL1TM:     7025.9   VP2MUW    up                            2018-11-22 08:43:00
+DX de EA2KV:     7025.9   VP2MUW    up                            2018-11-22 09:00:00
+DX de LW9EKA:      7026   VP2MUW    tks 73                        2018-11-22 09:07:00
+DX de JA7QVI:      7026   VP2MUW    CQ                            2018-11-22 09:17:00
+DX de W3LPL:    14026.9   VP2MUW    Heard in MA                   2018-11-22 11:14:00
+DX de S59GS:      14027   VP2MUW    JN75OO<>FK86VS UP             2018-11-22 11:15:00
+DX de RA4FK:      14027   VP2MUW    tnx QSO                       2018-11-22 11:20:00
+DX de W3LPL:    10118.9   VP2MUW    Heard in NY and MA            2018-11-22 11:30:00
+DX de UT9LB:      14027   VP2MUW    up up up                      2018-11-22 11:33:00
+DX de W3LPL:    18074.1   VP2MUW    Heard in MA                   2018-11-22 11:49:00
+DX de PE5O:       18074   VP2MUW    up1                           2018-11-22 11:50:00
+DX de EW4DW:      18074   VP2MUW    tnx ufb QSO !                 2018-11-22 11:55:00
+DX de 9A6R:       18074   VP2MUW    TNX QSO.GL                    2018-11-22 11:55:00
+DX de W3LPL:      18078   VP2MUW    Heard in NC                   2018-11-22 11:58:00
+DX de F5OUO:      14027   VP2MUW    599 TNX                       2018-11-22 11:59:00
+DX de UR8RF:      18078   VP2MUW    UP1 TNX                       2018-11-22 12:00:00
+DX de W3LPL:      10117   VP2MUW    Heard in NY and NC            2018-11-22 12:01:00
+DX de R5CW:       14027   VP2MUW    no rx at all                  2018-11-22 12:04:00
+DX de RU2K:       14027   VP2MUW    tnx QS0 up 1.3                2018-11-22 12:06:00
+DX de RU9SA:      14027   VP2MUW    tnx qso up                    2018-11-22 12:11:00
+DX de DD5ZZ:      14027   VP2MUW    tnx! up                       2018-11-22 12:14:00
+DX de DD5ZZ:      14027   VP2MUW    tnx! up                       2018-11-22 12:14:00
+DX de F1ICS:      18078   VP2MUW    up 1.1                        2018-11-22 12:15:00
+DX de W2PM:       10117   VP2MUW    CQ                            2018-11-22 12:17:00
+DX de KC4LZN:     18078   VP2MUW    CALL                          2018-11-22 12:20:00
+DX de KC4LZN:     18078   VP2MUW    CW                            2018-11-22 12:20:00
+DX de OE9NFI:     14027   VP2MUW    tnx 73up                      2018-11-22 12:26:00
+DX de N4VN:       18078   VP2MUW    UP                            2018-11-22 12:26:00
+DX de F5MNW:      14027   VP2MUW    up tnx                        2018-11-22 12:32:00
+DX de VK3HJ:      10117   VP2MUW    CQ                            2018-11-22 12:37:00
+DX de RM6AA:      14027   VP2MUW                                  2018-11-22 12:45:00
+DX de W1WC:       18078   VP2MUW    up 1                          2018-11-22 12:47:00
+DX de OK4RQ:    18078.1   VP2MUW    UP1, FB SIG- vert. ant        2018-11-22 12:49:00
+DX de KG9IL:      18078   VP2MUW    tnx contact 73                2018-11-22 12:49:00
+DX de M0VCB:      18078   VP2MUW    Tnx up 1                      2018-11-22 12:55:00
+DX de G0ORC:      18078   VP2MUW    QSX 18079.26 UP 1.25          2018-11-22 12:55:00
+DX de UR5EH:    18077.8   VP2MUW    Tnx up 1 Cambridge University 2018-11-22 13:08:00
+DX de W3LPL:      14027   VP2MUW    Heard in KS                   2018-11-22 13:13:00
+DX de RC7B:       14027   VP2MUW    tks for dx qso.               2018-11-22 13:14:00
+DX de WB9IXS:   14026.9   VP2MUW    up 1 nice sig into wi         2018-11-22 13:18:00
+DX de UT4WT:      18078   VP2MUW    tnx!                          2018-11-22 13:23:00
+DX de KI1G:     18078.1   VP2MUW    QSX 18079.3                   2018-11-22 13:23:00
+DX de R3THA:      14027   VP2MUW    tnx GL                        2018-11-22 13:30:00
+DX de S51DV:    14027.1   VP2MUW    TNX DX 73                     2018-11-22 13:31:00
+DX de HB9BQP:     18078   VP2MUW    tnx qso 73! qsx up 1          2018-11-22 13:34:00
+DX de IZ8FQO:   14027.1   VP2MUW    up 1.4                        2018-11-22 13:39:00
+DX de SV1GRN:     21000   VP2MUW    pse 15m cw                    2018-11-22 13:47:00
+DX de N9CIQ:      18078   VP2MUW    WRONG CALL                    2018-11-22 13:47:00
+DX de ON4CAS:   14026.9   VP2MUW    up                            2018-11-22 13:48:00
+DX de EW1P:       18078   VP2MUW    NOT KP2M :)                   2018-11-22 13:51:00
+DX de KN2M:     14026.9   VP2MUW    up 1                          2018-11-22 13:52:00
+DX de N1NN:     18078.2   VP2MUW    Up1                           2018-11-22 13:54:00
+DX de OK1CAS:     18078   VP2MUW    TU 73                         2018-11-22 13:54:00
+DX de W3LPL:    18077.9   VP2MUW    Heard in NY and SC            2018-11-22 13:58:00
+DX de OM8FR:    14028.5   VP2MUW    here QSX                      2018-11-22 14:06:00
+DX de DL7JV:      14027   VP2MUW    tnx up1.5                     2018-11-22 14:10:00
+DX de DL8TR:      14027   VP2MUW    579 tnx up                    2018-11-22 14:14:00
+DX de 4X4SWL:     14027   VP2MUW    599                           2018-11-22 14:17:00
+DX de R9XM:       18078   VP2MUW    UP                            2018-11-22 14:21:00
+DX de OK2LI:    14027.1   VP2MUW    S9 up 1,4 tnx 73!             2018-11-22 14:23:00
+DX de SP8ARY:     14027   VP2MUW    UP UP NICE HR                 2018-11-22 14:24:00
+DX de I0PJR:      14027   VP2MUW    mny tnx                       2018-11-22 14:25:00
+DX de DL2SBF:     14027   VP2MUW    up 1 2                        2018-11-22 14:27:00
+DX de 9A3KG:      14027   VP2MUW    tks for qso                   2018-11-22 14:27:00
+DX de RV3YR:      14027   VP2MUW    TNX 1.3up big signal 73!      2018-11-22 14:29:00
+DX de PA3EVY:     18078   VP2MUW    QSX 18079.00                  2018-11-22 14:34:00
+DX de N4JQQ:      18077   VP2MUW    UP                            2018-11-22 14:41:00
+DX de LZ1DB:      14027   VP2MUW    TNX 73.                       2018-11-22 14:44:00
+DX de IT9CML:     14027   VP2MUW                                  2018-11-22 14:47:00
+DX de LZ6DJ:      14027   VP2MUW    Tnx - up 1,2                  2018-11-22 15:01:00
+DX de W3LPL:    21025.1   VP2MUW    Heard in OH and NY            2018-11-22 16:45:00
+DX de K9GWH:    21025.1   VP2MUW    UP 1                          2018-11-22 16:48:00
+DX de W3LPL:      18092   VP2MUW    Heard in NC and NH            2018-11-22 16:53:00
+DX de EI9JF:      21025   VP2MUW                                  2018-11-22 16:57:00
+DX de F6GCP:      18092   VP2MUW    CW up 1.                      2018-11-22 16:58:00
+DX de AA2EQ:    18091.9   VP2MUW    QSX 18092.99 up 1 but not sayi2018-11-22 17:01:00
+DX de M0NKR:      21025   VP2MUW    TNX GUYS GOOD SIG 73 UP 1.3   2018-11-22 17:02:00
+DX de EI4KN:      21025   VP2MUW    up 1                          2018-11-22 17:03:00
+DX de 9Z4Y:       28000   VP2MUW    any 10 or 12m ?               2018-11-22 17:04:00
+DX de SQ3PMX:     21025   VP2MUW    TNX QSO                       2018-11-22 17:08:00
+DX de F4FRG:      18092   VP2MUW    UP 1                          2018-11-22 17:10:00
+DX de M0WUT:      14285   VP2MUW                                  2018-11-22 17:11:00
+DX de MI0SAI:     18092   VP2MUW    cq cq working UP 1            2018-11-22 17:13:00
+DX de F4FRG:      21025   VP2MUW    UP 1                          2018-11-22 17:13:00
+DX de MI0SAI:     21025   VP2MUW    cq cq nice sig up 1           2018-11-22 17:18:00
+DX de W8XK:     21025.1   VP2MUW    QSX 21.026.12                 2018-11-22 17:20:00
+DX de WA3LKT:     21025   VP2MUW    TU                            2018-11-22 17:21:00
+DX de DL2LDE:     18078   VP2MUW                                  2018-11-22 17:24:00
+DX de PY2KC:      21025   VP2MUW                                  2018-11-22 17:44:00
+DX de N9SZ:       21025   VP2MUW    up                            2018-11-22 17:58:00
+DX de NR1R:       21025   VP2MUW    QSX 21026.02                  2018-11-22 18:23:00
+DX de VE7SA:      21025   VP2MUW    tnx up1                       2018-11-22 18:34:00
+DX de W3LPL:    10116.9   VP2MUW    Heard in MA and NC            2018-11-22 18:36:00
+DX de N3HCN:      21025   VP2MUW                                  2018-11-22 18:36:00
+DX de W3LPL:    21025.1   VP2MUW    Heard in NJ                   2018-11-22 18:45:00
+DX de PT9DX:      21025   VP2MUW    TNX!                          2018-11-22 18:48:00
+DX de W3LPL:      14033   VP2MUW    Heard in NJ                   2018-11-22 19:27:00
+DX de KD8FS:    14033.1   VP2MUW    IOTA NA103 Montserrat         2018-11-22 19:29:00
+DX de K7JF:       14033   VP2MUW                                  2018-11-22 19:32:00
+DX de VA3ZB:      14033   VP2MUW                                  2018-11-22 19:38:00
+DX de W3LPL:      18076   VP2MUW    Heard in MD                   2018-11-22 19:41:00
+DX de W3LPL:    10115.1   VP2MUW    Heard in NC and NH            2018-11-22 19:43:00
+DX de N3HCN:      18076   VP2MUW                                  2018-11-22 19:44:00
+DX de IK6WEZ:     10115   VP2MUW    tnx 73                        2018-11-22 19:46:00
+DX de IK6VEM:     10115   VP2MUW    CF TNX                        2018-11-22 19:49:00
+DX de DL7JAN:     10115   VP2MUW    nw up1                        2018-11-22 19:51:00
+DX de ZL2CC:      18076   VP2MUW    gd copy zl sp                 2018-11-22 19:54:00
+DX de KR6C:       14033   VP2MUW    Up-1                          2018-11-22 19:59:00
+DX de PY2KC:      18076   VP2MUW                                  2018-11-22 20:01:00
+DX de KJ6MBW:     18076   VP2MUW    good copy, few callers        2018-11-22 20:07:00
+DX de HL2WA:      14033   VP2MUW    GETUP1, tnx FB QSO            2018-11-22 20:16:00
+DX de N3PM:       18076   VP2MUW    Good into NE PA               2018-11-22 20:19:00
+DX de F5NKX:    10115.2   VP2MUW    ALONE CQ                      2018-11-22 20:34:00
+DX de NS2C:       14033   VP2MUW    up 1                          2018-11-22 20:36:00
+DX de HA6VH:    10115.2   VP2MUW                                  2018-11-22 20:38:00
+DX de VE3VTG:     14033   VP2MUW    up 1                          2018-11-22 20:40:00
+DX de VE2DSB:     14033   VP2MUW    CW up 1 tnx QSO               2018-11-22 20:42:00
+DX de RK7C:     10115.1   VP2MUW    tnx QSO up 1.2                2018-11-22 20:43:00
+DX de W3LPL:       7024   VP2MUW    Heard in NJ                   2018-11-22 20:50:00
+DX de SV1NJA:   10115.1   VP2MUW    tnx 73                        2018-11-22 20:54:00
+DX de W4DL:     10115.1   VP2MUW                                  2018-11-22 20:56:00
+DX de OK1OA:    10115.1   VP2MUW    Up 1                          2018-11-22 20:58:00
+DX de IW3ILM:   10115.1   VP2MUW    up1                           2018-11-22 21:07:00
+DX de N9ZI:       14033   VP2MUW                                  2018-11-22 21:09:00
+DX de UR5WA:       7024   VP2MUW    up1 very strong               2018-11-22 21:14:00
+DX de F5OUO:       7024   VP2MUW    599 UP TNX                    2018-11-22 21:15:00
+DX de F5TFW:       7024   VP2MUW                                  2018-11-22 21:19:00
+DX de OK1OA:       7024   VP2MUW    Up 1 1                        2018-11-22 21:20:00
+DX de F4DSK:      10115   VP2MUW    UP                            2018-11-22 21:22:00
+DX de EA5IJG:     10115   VP2MUW    1 UP                          2018-11-22 21:24:00
+DX de SQ8N:     10115.1   VP2MUW    UP                            2018-11-22 21:25:00
+DX de EI9JF:    10115.1   VP2MUW                                  2018-11-22 21:27:00
+DX de W3LPL:    14033.1   VP2MUW    Heard in KS                   2018-11-22 21:29:00
+DX de N2FF:     10115.1   VP2MUW    QSX up                        2018-11-22 21:29:00
+DX de CE6RC:      10115   VP2MUW    599 tnx 73 - one up           2018-11-22 21:31:00
+DX de G4NBS:       7024   VP2MUW    nice signal tonite            2018-11-22 21:32:00
+DX de JE1RXJ:   14032.8   VP2MUW    CQ JA TU                      2018-11-22 21:34:00
+DX de JE1RXJ:   14032.8   VP2MUW    UP1 TU CQ JA TU               2018-11-22 21:35:00
+DX de EA3NY:    10115.1   VP2MUW    calling JA                    2018-11-22 21:43:00
+DX de JH4CPC:      7024   VP2MUW    UP CQ JA                      2018-11-22 21:43:00
+DX de EA3NY:       7024   VP2MUW    Sorry. Calling JA             2018-11-22 21:43:00
+DX de WA8UPB:     14033   VP2MUW    Up                            2018-11-22 21:44:00
+DX de N0FW:       10115   VP2MUW    CQ                            2018-11-22 21:46:00
+DX de IZ5JMZ:      7024   VP2MUW    up 1.2                        2018-11-22 21:55:00
+DX de VE1OP:       7024   VP2MUW    up 1.2                        2018-11-22 21:57:00
+DX de US3IY:     7023.9   VP2MUW    tnx qso up                    2018-11-22 22:04:00
+DX de RK7C:        7024   VP2MUW    tnx QSO up 1.6                2018-11-22 22:04:00
+DX de US0CD:       7024   VP2MUW    tnx QSO                       2018-11-22 22:13:00
+DX de W9LKJ:      14033   VP2MUW    up 1                          2018-11-22 22:14:00
+DX de W3LPL:     7025.1   VP2MUW    Heard in NC and NY            2018-11-22 23:39:00
+DX de EI4KN:     7025.1   VP2MUW    up 1                          2018-11-22 23:43:00
+DX de F6BCW:       7025   VP2MUW    Vy gud 599 Up1 tnx            2018-11-22 23:54:00
+DX de W3LPL:       3522   VP2MUW    Heard in NH                   2018-11-22 23:55:00
+DX de NZ0T:        3522   VP2MUW    up 1                          2018-11-23 00:00:00
+DX de AA1K:        3522   VP2MUW    QSX 3523.10                   2018-11-23 00:02:00
+DX de EI9JF:       7025   VP2MUW                                  2018-11-23 00:13:00
+DX de EI2IV:       7025   VP2MUW    TNX QSO! up 1                 2018-11-23 00:14:00
+DX de UR5IRM:      3522   VP2MUW    TNX QSO! 73! up               2018-11-23 00:16:00
+DX de AB1YD:     7025.1   VP2MUW    TU from RI                    2018-11-23 00:23:00
+DX de HZ1TT:       7025   VP2MUW    UP 1 .. tnx qso good dx CW 40M2018-11-23 00:38:00
+DX de MU0FAL:      7025   VP2MUW    up                            2018-11-23 00:41:00
+DX de M0BLF:      18124   VP2MUW    Last day. vp2muw.com          2018-11-23 11:54:00
+DX de F4TTR:      18124   VP2MUW    QSX 18129.1 UP 5.10           2018-11-23 11:55:00
+DX de M0WUT:      14205   VP2MUW    vp2muw.com                    2018-11-23 12:03:00
+DX de IK2IQJ:     18124   VP2MUW    up 5 Tnx new one 55 Albino cer2018-11-23 12:06:00
+DX de S55G:       14205   VP2MUW    cq cq 57                      2018-11-23 12:09:00
+DX de ON3SAT:     18124   VP2MUW                                  2018-11-23 12:10:00
+DX de W3LPL:      10116   VP2MUW    Heard in UT and NH            2018-11-23 12:15:00
+DX de VK3HJ:      10116   VP2MUW    CQ                            2018-11-23 12:18:00
+DX de DJ4EL:      18124   VP2MUW    up, NA-103, Montserrat Isl.   2018-11-23 12:19:00
+DX de WB4X:       10116   VP2MUW                                  2018-11-23 12:20:00
+DX de KA5GEX:     10116   VP2MUW    Tnx QSO! Simplex              2018-11-23 12:22:00
+DX de EW1P:       18124   VP2MUW    5up                           2018-11-23 12:23:00
+DX de OE3ZJC:     18124   VP2MUW    57..73..5 up                  2018-11-23 12:23:00
+DX de HG2DX:      10116   VP2MUW                                  2018-11-23 12:25:00
+DX de OS8D:       18124   VP2MUW                                  2018-11-23 12:28:00
+DX de W3LPL:    14032.9   VP2MUW    Heard in NC and NH            2018-11-23 12:30:00
+DX de RX9T:       14033   VP2MUW    UP 1                          2018-11-23 12:32:00
+DX de SQ2CDC:     18124   VP2MUW                                  2018-11-23 12:35:00
+DX de VK5MAV:     14033   VP2MUW    1 up. 559 here. No answer     2018-11-23 12:37:00
+DX de SN6P:       18124   VP2MUW    UP5 Tnx for qso 73            2018-11-23 12:37:00
+DX de G0DEF:      18124   VP2MUW    thax-5-up                     2018-11-23 12:38:00
+DX de N9IO:       10116   VP2MUW    CW                            2018-11-23 12:40:00
+DX de G3YSX:      14033   VP2MUW                                  2018-11-23 12:42:00
+DX de DK2JW:      18124   VP2MUW    up 5                          2018-11-23 12:44:00
+DX de K2KA:       10116   VP2MUW    CQ                            2018-11-23 12:45:00
+DX de NG7M:       10116   VP2MUW                                  2018-11-23 12:48:00
+DX de OD5YA:      18124   VP2MUW    tnx for 59 from od5ya Lebanon!2018-11-23 13:03:00
+DX de LZ2PS:      14033   VP2MUW    up                            2018-11-23 13:03:00
+DX de F4EHA:      18124   VP2MUW    Not Very Busy                 2018-11-23 13:05:00
+DX de M0BLF:      18123   VP2MUW    Up 5 vp2muw.com               2018-11-23 14:08:00
+DX de W3LPL:      14038   VP2MUW    Heard in NJ                   2018-11-23 14:25:00
+DX de OH8MNM:     14038   VP2MUW    up1-2                         2018-11-23 14:46:00
+DX de TA3ATE:     14038   VP2MUW    tnx qsx 14039 20              2018-11-23 15:03:00
