@@ -28,11 +28,14 @@
 <p>Read the <a href="https://www.domsmith.co.uk/blog/2018/11/25/vp2muw-montserrat/">full blog post about the trip</a>.</p>
 </section>
 
-<section id="spots">
-<h1>Latest DX Spots</h1>
-<!-- <div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span></div> -->
-<div id="dxspots"><p>An archive of <a href="dxspots.txt">all DX spots for the activation</a> is available.</p></div>
-<!-- <p>Updates every 10 minutes. Data from dxcluster.co.uk</p> -->
+<section id="qsl">
+<h1>QSL information</h1>
+<p>Logs were uploaded to Club Log and LotW regularly throughout the trip. If you need a paper QSL, you can use Clublog OQRS to request a direct or bureau card. Please do not send us your card.</p>
+<p>To use OQRS, start by searching for your callsign:</p>
+<div id="clublogSearch">
+<iframe name='iframe' src='https://clublog.org/logsearch.php?log=VP2MUW&iframe=1' scrolling='yes'></iframe>
+</div>
+<p>If your QSO isn't found in the search, <a href="mailto:m0blf@domsmith.co.uk">email me</a> to check for a busted call.</p>
 </section>
 
 <section id="ops">
@@ -46,14 +49,21 @@
 </div>
 </section>
 
-<section id="qsl">
-<h1>QSL information</h1>
-<p>Logs were uploaded to Club Log and LotW regularly throughout the trip. If you need a paper QSL, you can use Clublog OQRS to request a direct or bureau card. Please do not send us your card.</p>
-<p>To use OQRS, start by searching for your callsign:</p>
-<div id="clublogSearch">
-<iframe name='iframe' src='https://clublog.org/logsearch.php?log=VP2MUW&iframe=1' scrolling='yes'></iframe>
-</div>
-<p>If your QSO isn't found in the search, <a href="mailto:m0blf@domsmith.co.uk">email me</a> to check for a busted call.</p>
+<section id="media">
+<h1>Media</h1>
+<div class="embed-container"><iframe src='https://www.youtube.com/embed/PnWRjalM5tk' frameborder="0" allowfullscreen></iframe></div>
+<p><ul>
+<li><a href="https://www.flickr.com/photos/dnas2/sets/72157700709739562">Dom's photos on Flickr</a></li>
+<li><a href="https://www.youtube.com/watch?v=C-l_p96-E2s">360 degree panorama from the tower at Gingerbread Hill</a></li>
+<li><a href="https://www.youtube.com/watch?v=5pQr-Q6WbdY">'How to work us' guide</a></li>
+</ul></p>
+</section>
+
+<section id="antennas">
+<h1>Antennas</h1>
+<p class="photo"><img src="antennas.jpg"></p>
+<p>1) Mosley C33-M tribander; 2) 20m vertical; 3) 17m vertical; 4) 80m dipole; 5) 40m dipole; 6) 30m dipole</p>
+<p>Photo taken looking roughly NW, the sea path to the US</p>
 </section>
 
 <section id="qth">
@@ -63,6 +73,13 @@
  <div id="mapid"></div>
 </section>
 
+<section id="spots">
+<h1>Latest DX Spots</h1>
+<!-- <div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span></div> -->
+<div id="dxspots"><p>An archive of <a href="dxspots.txt">all DX spots for the activation</a> is available.</p></div>
+<!-- <p>Updates every 10 minutes. Data from dxcluster.co.uk</p> -->
+</section>
+
 <!--<section id="weather">
 <h1>Weather</h1>
 <a class="weatherwidget-io" href="https://forecast7.com/en/16d74n62d19/montserrat/" data-label_1="MONTSERRAT" data-label_2="WEATHER" data-days="5" data-theme="original" >MONTSERRAT WEATHER</a>
@@ -70,35 +87,6 @@
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 </section>-->
-
-<section id="propagation">
-<h1>Propagation</h1>
-<p>Select the nearest location to you for the best bands to work us on: 
-  <select id="propagQth" onChange="updateChart()">
-    <option disabled="true">EUROPE:</option>
-    <option value="g">G: England</option>
-	<option value="ua">UA: European Russia</option>
-	<option disabled="true">NORTH AMERICA:</option>
-	<option value="w2">W2: New York</option>
-	<option value="w0">W0: North Dakota</option>
-	<option value="w6">W6: California</option>
-	<option disabled="true">SOUTH AMERICA:</option>
-	<option value="py">PY: Brasil</option>
-	<option value="lu">LU: Argentina</option>
-	<option disabled="true">AFRICA:</option>
-	<option value="zs">ZS: South Africa</option>
-	<option disabled="true">ASIA:</option>
-	<option value="5b">5B: Cyprus</option>
-	<option value="ja">JA: Japan</option>
-	<option value="vu">VU: India</option>
-	<option disabled="true">AUSTRALIASIA:</option>
-	<option value="vk6">VK6: Perth</option>
-	<option value="vk2">VK2: Sydney</option>
-  </select>
-</p>
-<div id="propChartDiv"><img src="propagation/prop-g.png" id="propChart"></div>
-<p>Times shown are local time for the selected place. Predictions from VOACAP. Remember: these are only forecasts, and reality may be different. Listening and watching the cluster is always best!</p>
-</section>
 
 <section id="updates">
 <h1>Updates</h1>
@@ -135,21 +123,33 @@
 </div>
 </section>
 
-<section id="antennas">
-<h1>Antennas</h1>
-<p class="photo"><img src="antennas.jpg"></p>
-<p>1) Mosley C33-M tribander; 2) 20m vertical; 3) 17m vertical; 4) 80m dipole; 5) 40m dipole; 6) 30m dipole</p>
-<p>Photo taken looking roughly NW, the sea path to the US</p>
-</section>
-
-<section id="media">
-<h1>Media</h1>
-<div class="embed-container"><iframe src='https://www.youtube.com/embed/PnWRjalM5tk' frameborder="0" allowfullscreen></iframe></div>
-<p><ul>
-<li><a href="https://www.flickr.com/photos/dnas2/sets/72157700709739562">Dom's photos on Flickr</a></li>
-<li><a href="https://www.youtube.com/watch?v=C-l_p96-E2s">360 degree panorama from the tower at Gingerbread Hill</a></li>
-<li><a href="https://www.youtube.com/watch?v=5pQr-Q6WbdY">'How to work us' guide</a></li>
-</ul></p>
+<section id="propagation">
+<h1>Propagation</h1>
+<p>Select the nearest location to you for the best bands to work us on: 
+  <select id="propagQth" onChange="updateChart()">
+    <option disabled="true">EUROPE:</option>
+    <option value="g">G: England</option>
+	<option value="ua">UA: European Russia</option>
+	<option disabled="true">NORTH AMERICA:</option>
+	<option value="w2">W2: New York</option>
+	<option value="w0">W0: North Dakota</option>
+	<option value="w6">W6: California</option>
+	<option disabled="true">SOUTH AMERICA:</option>
+	<option value="py">PY: Brasil</option>
+	<option value="lu">LU: Argentina</option>
+	<option disabled="true">AFRICA:</option>
+	<option value="zs">ZS: South Africa</option>
+	<option disabled="true">ASIA:</option>
+	<option value="5b">5B: Cyprus</option>
+	<option value="ja">JA: Japan</option>
+	<option value="vu">VU: India</option>
+	<option disabled="true">AUSTRALIASIA:</option>
+	<option value="vk6">VK6: Perth</option>
+	<option value="vk2">VK2: Sydney</option>
+  </select>
+</p>
+<div id="propChartDiv"><img src="propagation/prop-g.png" id="propChart"></div>
+<p>Times shown are local time for the selected place. Predictions from VOACAP. Remember: these are only forecasts, and reality may be different. Listening and watching the cluster is always best!</p>
 </section>
 
 <div id="logos"><img src="camb-hams-logo.png"> <img src="g6uw-logo.png"></div>
